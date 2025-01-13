@@ -1,4 +1,4 @@
-#🌟 Taskee: Your ✨Effortless✨ To-Do List Companion 🌟
+#🌟 Taskee: Your ✨Effortless✨ To-Do List Companion 🌟#
 
 Introducing Taskee, your go-to app for conquering your to-do list! 🎯 This feature-rich app goes beyond basic task management, offering a delightful and productive experience.
 
