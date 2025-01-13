@@ -4,7 +4,7 @@ Introducing Taskee, your go-to app for conquering your to-do list! 🎯 This fea
 
 ## ✨ Here's what makes Taskee special:
 
-###### Effortless Task Management: 
+##### Effortless Task Management: 
 ✍️ Add, edit, and delete tasks with a breeze. Prioritize tasks with ease (low, medium, high) for a clear focus.
 
 Stunning Themes: ✨ Switch between light and dark modes to suit your mood. The themes dynamically adjust for a visually pleasing experience.
