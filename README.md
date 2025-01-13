@@ -1,4 +1,4 @@
-🌟 Taskee: Your ✨Effortless✨ To-Do List Companion 🌟
+*🌟 Taskee: Your ✨Effortless✨ To-Do List Companion 🌟*
 
 Introducing Taskee, your go-to app for conquering your to-do list! 🎯 This feature-rich app goes beyond basic task management, offering a delightful and productive experience.
 
@@ -27,3 +27,9 @@ Manage your tasks: mark them complete, delete them, or adjust priorities.
 Personalize your view: Switch between light and dark modes. 🌗
 Find tasks quickly with the search bar. 🔍
 With Taskee, say goodbye to sticky notes and hello to effortless productivity! 🚀
+
+
+Installation
+
+Clone the repository:
+git clone https://github.com/Has362/Taskee-To-do-List-App
