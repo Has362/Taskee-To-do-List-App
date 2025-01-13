@@ -2,7 +2,7 @@
 
 Introducing Taskee, your go-to app for conquering your to-do list! 🎯 This feature-rich app goes beyond basic task management, offering a delightful and productive experience.
 
-✨ Here's what makes Taskee special:
+## ✨ Here's what makes Taskee special:
 
 Effortless Task Management: ✍️ Add, edit, and delete tasks with a breeze. Prioritize tasks with ease (low, medium, high) for a clear focus.
 
