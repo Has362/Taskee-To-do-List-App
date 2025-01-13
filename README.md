@@ -2,6 +2,7 @@
 
 Introducing Taskee, your go-to app for conquering your to-do list! 🎯 This feature-rich app goes beyond basic task management, offering a delightful and productive experience.
 
+
 ## ✨ Here's what makes Taskee special:
 
 #### 💠 Effortless Task Management: 
@@ -26,6 +27,7 @@ Introducing Taskee, your go-to app for conquering your to-do list! 🎯 This fea
 A modern and user-friendly interface with vibrant colors makes Taskee a joy to use.
 
 
+
 ## ✴️ Getting Started with Taskee:
 
 🔆 Open Taskee in your web browser.
@@ -34,6 +36,7 @@ A modern and user-friendly interface with vibrant colors makes Taskee a joy to u
 🔆 Personalize your view: Switch between light and dark modes. 🌗
 🔆 Find tasks quickly with the search bar. 🔍
 🔆 With Taskee, say goodbye to sticky notes and hello to effortless productivity! 🚀
+
 
 
 ## 💻 Installation
